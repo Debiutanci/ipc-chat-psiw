@@ -618,17 +618,6 @@ void cover_607(Request response)
     unique_pause();
 }
 
-// TODO
-int is_correct_response(int client, Request response)
-{
-    char res[10] = "RESPONSE";
-    if (response.from != client && strcmp(response.mtext, res) == 0)
-    {
-        return 1;
-    }
-    return 0;
-}
-
 void safe_check()
 {
     Request request;
@@ -721,7 +710,6 @@ int main(int argc, char *argv[])
             cover_users_listing_603(response);
             break;
         case 604:
-            // TODO cover
             break;
         case 605:
             break;
@@ -732,7 +720,6 @@ int main(int argc, char *argv[])
             cover_607(response);
             break;
         case 608:
-            // cover_608(response);
             break;
         case 609:
             break;
