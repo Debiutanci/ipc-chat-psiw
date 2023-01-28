@@ -735,11 +735,3 @@ int main(int argc, char *argv[])
     }
     return 0;
 }
-
-/*
-RT:
-22 - init
-101 - login
-102 - logout
-
-*/
