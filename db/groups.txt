@@ -1,0 +1,3 @@
+liczniki,1
+zegary,2
+motocykle,3

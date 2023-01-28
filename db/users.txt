@@ -1,0 +1,10 @@
+zbyszek@test.pl,Zbyszek,Wytryszek,passxd,1
+zosia@test.pl,Zosia,Samosia,haslo123,2
+mariusz@test.pl,Mariusz,Zdrowy,pass1234,3
+adam@test.pl,Adam,Orzech,czyjeorzeszki123,4
+marta@test.pl,Marta,Szept,niemiescisiehahaha123,5
+adam2@test.pl,Adam,Duzy,debiutuje123,6
+zbigniew@test.pl,Zbych,Drugi,passxd,7
+melon@test.pl,Krzysztof,Maly,haslo12345,8
+arbuz@test.pl,Grazyn,Brak,mocnehaslo4321,9
+imejl@test.pl,Tak,Tez,mozeszjaknajbardziej,10
